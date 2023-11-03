@@ -29,8 +29,7 @@ documentation:
 # Longer description of how the project works. You can use standard markdown format.
   how_it_works: |
       This implements a low baud rate UART which should output ASCII characters
-      from 0x40 (@) to 0x5F (_), including capital letters from the latin
-      alphabet.
+      "Red."
 
 # Instructions on how someone could test your project, include things like what buttons do what and how to set the clock if needed
   how_to_test:  |
